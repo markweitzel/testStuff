@@ -1,6 +1,6 @@
 ---
 name: API Review Request
-about: API Review Request
+about: Request API Review Working Session
 title: API Review Request
 labels: REVIEW
 assignees: ''
@@ -24,6 +24,6 @@ Description of the material to be reviewed/changed:
 
 Link to swagger:
 
-Link to PR created against azure/azure-rest-api-specs with the swagger definition of the API
+Other members of your team to invite to the working session:
 
 Preferred time zone:
