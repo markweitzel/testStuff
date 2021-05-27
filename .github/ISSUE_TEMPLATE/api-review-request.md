@@ -1,14 +1,27 @@
 ---
 name: API Review Request
-about: API to review...
+about: API Review Request
 title: API Review Request
-labels: documentation
+labels: REVIEW
 assignees: ''
 
 ---
 
-Link to Swagger:
+Service name: 
 
-Link to PR: 
+Is this a new service?
+- [ ] Yes
+- [ ] No
 
-...
+Has your service already been deployed?
+- [ ] No, not yet
+- [ ] Yes, we are in preview
+- [ ] Yes, we are GA
+
+Description of the material to be reviewed/changed: 
+
+Link to swagger:
+
+Link to PR created against azure/azure-rest-api-specs with the swagger definition of the API
+
+Preferred time zone:
