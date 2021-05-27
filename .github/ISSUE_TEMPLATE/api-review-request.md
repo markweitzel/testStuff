@@ -10,10 +10,12 @@ assignees: ''
 Service name: 
 
 Is this a new service?
+( Put an "X" in brackets with no spaces, e.g. [X] )
 - [ ] Yes
 - [ ] No
 
 Has your service already been deployed?
+( Put an "X" in brackets with no spaces, e.g. [X] )
 - [ ] No, not yet
 - [ ] Yes, we are in preview
 - [ ] Yes, we are GA
