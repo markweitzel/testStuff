@@ -2,7 +2,7 @@
 name: API Review Request
 about: Request API Review Working Session
 title: API Review Request
-labels: REVIEW
+labels: WaitingForAzureAPIBoard
 assignees: ''
 
 ---
