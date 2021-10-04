@@ -9,29 +9,29 @@ body:
     attributes:
       value: |
         Let's build an engagement plan
-   - type: textarea
-     id: ServiceDescription
-     attributes:
-       label: Service Description
-       description: Tell me about your service. 
-       render: markdown
-   - type: textarea
-     id: kpis
-     attributes:
-       label:  KPIs & Success metrics
-       description: Sucees metrics 
-       render: markdown
-   - type: dropdown
-     id: clientLibraryRecommendation
-     attributes:
+  - type: textarea
+    id: ServiceDescription
+    attributes:
+      label: Service Description
+      description: Tell me about your service. 
+      render: markdown
+  - type: textarea
+    id: kpis
+    attributes:
+      label:  KPIs & Success metrics
+      description: Sucees metrics 
+      render: markdown
+  - type: dropdown
+    id: clientLibraryRecommendation
+    attributes:
       label: Client Library Recommendation
       description: What kind of client library are you intending to deliver?
       options:
         - LLC
         - HLC       
-   - type: checkboxes
-     id: existingGA
-     attributes:
+  - type: checkboxes
+    id: existingGA
+    attributes:
       label: GA Service
       description: just an example of checkboxes
       options:
